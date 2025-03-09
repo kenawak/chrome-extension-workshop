@@ -1,0 +1,16 @@
+{
+    "manifest_version": 3,
+    "name": "Text Highlighter UI",
+    "version": "1.0.0",
+    "description": "UI for selecting highlight color and highlighting text",
+    "action": {
+        "default_title": "Open Highlighter",
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "tabs",
+        "storage",
+        "scripting",
+        "activeTab"
+    ]
+}   
