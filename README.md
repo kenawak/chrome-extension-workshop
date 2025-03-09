@@ -1,4 +1,4 @@
-# Text Highlighter UI
+# Text Highlighter Chrome Extension
 
 ## Description
 Text Highlighter UI is a Chrome extension that allows users to highlight selected text on web pages with a chosen color. The extension provides a simple user interface for selecting the highlight color and applying it to the selected text.
